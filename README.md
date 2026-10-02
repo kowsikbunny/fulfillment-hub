@@ -210,9 +210,10 @@ python validate_data.py
 The project uses dummy operational data created specifically to demonstrate the fulfillment workflow. No real customer, warehouse, or courier data is used.
 
 ## Video Walkthrough
+Video walkthrough: https://youtu.be/svmn-xmqLGA
 
 A short walkthrough demonstrates:
-Video walkthrough: https://youtu.be/svmn-xmqLGA
+
 
 1. Problem understanding
 2. Operations Dashboard
