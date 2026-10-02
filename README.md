@@ -168,7 +168,7 @@ The validation completed without unknown SKUs, products without inventory, dupli
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/kowsikbunny/fulfillment-hub.git
 
 cd fulfillment-hub
 ```
