@@ -1,0 +1,48 @@
+Exception_ID,Order_ID,Issue_Type,Severity,Description,Status,Created_Time
+EX-0001,ORD-0006,Stock Transfer Required,High,3 unit(s) available in secondary warehouse but not enough stock in main warehouse.,Open,2026-09-27 06:01
+EX-0002,ORD-0024,Stock Transfer Required,High,1 unit(s) available in secondary warehouse but not enough stock in main warehouse.,Open,2026-09-27 01:44
+EX-0003,ORD-0028,Stock Transfer Required,High,2 unit(s) available in secondary warehouse but not enough stock in main warehouse.,Open,2026-09-26 08:06
+EX-0004,ORD-0029,Stock Transfer Required,High,2 unit(s) available in secondary warehouse but not enough stock in main warehouse.,Open,2026-09-27 00:13
+EX-0005,ORD-0033,Stock Transfer Required,High,2 unit(s) available in secondary warehouse but not enough stock in main warehouse.,Open,2026-09-27 04:12
+EX-0006,ORD-0045,Stock Transfer Required,High,2 unit(s) available in secondary warehouse but not enough stock in main warehouse.,Open,2026-09-27 04:04
+EX-0007,ORD-0071,Stock Transfer Required,High,3 unit(s) available in secondary warehouse but not enough stock in main warehouse.,Open,2026-09-27 01:04
+EX-0008,ORD-0089,Stock Transfer Required,High,3 unit(s) available in secondary warehouse but not enough stock in main warehouse.,Open,2026-09-27 04:31
+EX-0009,ORD-0095,Stock Transfer Required,High,1 unit(s) available in secondary warehouse but not enough stock in main warehouse.,Open,2026-09-27 04:13
+EX-0010,ORD-0103,Stock Transfer Required,High,1 unit(s) available in secondary warehouse but not enough stock in main warehouse.,Open,2026-09-28 03:26
+EX-0011,ORD-0106,Insufficient Stock,Critical,Required stock is not available across the warehouses.,Open,2026-09-28 03:11
+EX-0012,ORD-0119,Insufficient Stock,Critical,Required stock is not available across the warehouses.,Open,2026-09-27 07:12
+EX-0013,ORD-0121,Stock Transfer Required,High,3 unit(s) available in secondary warehouse but not enough stock in main warehouse.,Open,2026-09-27 04:00
+EX-0014,ORD-0137,Stock Transfer Required,High,1 unit(s) available in secondary warehouse but not enough stock in main warehouse.,Open,2026-09-26 04:10
+EX-0015,ORD-0008,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-28 01:46
+EX-0016,ORD-0013,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-26 05:37
+EX-0017,ORD-0027,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-27 03:26
+EX-0018,ORD-0032,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-27 06:57
+EX-0019,ORD-0036,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-28 01:16
+EX-0020,ORD-0055,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-26 08:51
+EX-0021,ORD-0062,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-27 04:32
+EX-0022,ORD-0069,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-27 00:08
+EX-0023,ORD-0075,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-28 00:13
+EX-0024,ORD-0079,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-26 01:15
+EX-0025,ORD-0080,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-26 03:05
+EX-0026,ORD-0084,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-28 07:32
+EX-0027,ORD-0093,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-27 08:23
+EX-0028,ORD-0099,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-27 04:19
+EX-0029,ORD-0116,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-28 03:09
+EX-0030,ORD-0127,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-28 04:47
+EX-0031,ORD-0128,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-26 02:49
+EX-0032,ORD-0141,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-26 06:58
+EX-0033,ORD-0147,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-27 06:47
+EX-0034,ORD-0149,Priority Order Delay Risk,High,Priority order has not reached shipping stage within the expected workflow.,Open,2026-09-27 06:50
+EX-0035,ORD-0045,Courier Pickup Delayed,Medium,Packed order is staged but courier pickup has been delayed.,Open,2026-09-27 04:04
+EX-0036,ORD-0046,Courier Pickup Delayed,Medium,Packed order is staged but courier pickup has been delayed.,Open,2026-09-26 02:29
+EX-0037,ORD-0072,Courier Pickup Delayed,Medium,Packed order is staged but courier pickup has been delayed.,Open,2026-09-28 06:41
+EX-0038,ORD-0094,Courier Pickup Delayed,Medium,Packed order is staged but courier pickup has been delayed.,Open,2026-09-28 05:52
+EX-0039,ORD-0131,Courier Pickup Delayed,Medium,Packed order is staged but courier pickup has been delayed.,Open,2026-09-27 06:09
+EX-0040,ORD-0133,Courier Pickup Delayed,Medium,Packed order is staged but courier pickup has been delayed.,Open,2026-09-27 06:56
+EX-0041,ORD-0148,Courier Pickup Delayed,Medium,Packed order is staged but courier pickup has been delayed.,Open,2026-09-27 07:28
+EX-0042,ORD-0150,Courier Pickup Delayed,Medium,Packed order is staged but courier pickup has been delayed.,Open,2026-09-26 05:32
+EX-0043,ORD-0060,SKU / Variant Verification,Medium,Product or variant should be verified before packing.,Open,2026-09-27 07:17
+EX-0044,ORD-0137,SKU / Variant Verification,Medium,Product or variant should be verified before packing.,Open,2026-09-26 04:10
+EX-0045,ORD-0062,SKU / Variant Verification,Medium,Product or variant should be verified before packing.,Open,2026-09-27 04:32
+EX-0046,ORD-0080,SKU / Variant Verification,Medium,Product or variant should be verified before packing.,Open,2026-09-26 03:05
+EX-0047,ORD-0121,SKU / Variant Verification,Medium,Product or variant should be verified before packing.,Open,2026-09-27 04:00

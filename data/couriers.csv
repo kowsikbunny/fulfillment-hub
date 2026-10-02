@@ -1,0 +1,5 @@
+Courier_ID,Courier_Name,Pickup_Time,Cost,Expected_Delivery_Days
+CR-01,Delhivery,17:00,55,2
+CR-02,Blue Dart,16:30,75,1
+CR-03,DTDC,18:00,50,3
+CR-04,Ecom Express,17:30,48,2

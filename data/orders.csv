@@ -1,0 +1,151 @@
+Order_ID,Order_Date,Order_Time,Priority,Customer,SKU,Product_Name,Variant,Quantity,Warehouse,Order_Status,SLA_Deadline,Courier_ID,Courier_Name,Shipping_Cost,Pickup_Status
+ORD-0001,2026-09-26,04:28,Normal,Rahul,SKU-046,Bluetooth Speaker,White,2,WH-MAIN,Packing,2026-09-27 04:28,CR-03,DTDC,50,Not Ready
+ORD-0002,2026-09-27,09:00,Normal,Vikram,SKU-006,Cotton Bedsheet,Medium,3,WH-MAIN,Picking,2026-09-28 09:00,CR-02,Blue Dart,75,Not Ready
+ORD-0003,2026-09-26,02:25,Normal,Priya,SKU-011,Travel Pouch,Green,3,WH-MAIN,Received,2026-09-27 02:25,CR-01,Delhivery,55,Not Ready
+ORD-0004,2026-09-27,00:51,Normal,Rahul,SKU-045,Desk Organizer,Small,1,WH-MAIN,Packing,2026-09-28 00:51,CR-02,Blue Dart,75,Not Ready
+ORD-0005,2026-09-28,03:47,Normal,Priya,SKU-020,USB-C Charger,Green,2,WH-MAIN,Shipped,2026-09-29 03:47,CR-02,Blue Dart,75,Picked Up
+ORD-0006,2026-09-27,06:01,Normal,Arjun,SKU-023,Bluetooth Speaker,Large,3,WH-MAIN,Processing,2026-09-28 06:01,CR-02,Blue Dart,75,Not Ready
+ORD-0007,2026-09-27,02:09,High,Vikram,SKU-027,Stainless Steel Bottle,Red,1,WH-MAIN,Shipped,2026-09-27 10:09,CR-02,Blue Dart,75,Picked Up
+ORD-0008,2026-09-28,01:46,High,Ananya,SKU-011,Travel Pouch,Green,3,WH-MAIN,Processing,2026-09-28 09:46,CR-04,Ecom Express,48,Not Ready
+ORD-0009,2026-09-26,05:35,Normal,Priya,SKU-020,USB-C Charger,Green,1,WH-MAIN,Picking,2026-09-27 05:35,CR-03,DTDC,50,Not Ready
+ORD-0010,2026-09-26,02:17,Normal,Priya,SKU-050,Cotton Bedsheet,Red,2,WH-MAIN,Staged,2026-09-27 02:17,CR-03,DTDC,50,Ready for Pickup
+ORD-0011,2026-09-27,08:54,Normal,Ananya,SKU-017,Stainless Steel Bottle,Blue,1,WH-MAIN,Staged,2026-09-28 08:54,CR-04,Ecom Express,48,Ready for Pickup
+ORD-0012,2026-09-28,02:03,Normal,Rahul,SKU-028,Desk Organizer,White,3,WH-MAIN,Staged,2026-09-29 02:03,CR-02,Blue Dart,75,Ready for Pickup
+ORD-0013,2026-09-26,05:37,High,Ananya,SKU-046,Bluetooth Speaker,White,2,WH-MAIN,Packing,2026-09-26 13:37,CR-01,Delhivery,55,Not Ready
+ORD-0014,2026-09-28,04:28,Normal,Ananya,SKU-040,Travel Pouch,White,2,WH-MAIN,Picking,2026-09-29 04:28,CR-04,Ecom Express,48,Not Ready
+ORD-0015,2026-09-28,05:34,Normal,Arjun,SKU-026,Laptop Backpack,Medium,3,WH-MAIN,Shipped,2026-09-29 05:34,CR-04,Ecom Express,48,Picked Up
+ORD-0016,2026-09-26,08:41,Normal,Ravi,SKU-040,Travel Pouch,White,3,WH-MAIN,Picking,2026-09-27 08:41,CR-02,Blue Dart,75,Not Ready
+ORD-0017,2026-09-27,01:32,Normal,Kiran,SKU-038,Desk Organizer,Black,3,WH-MAIN,Shipped,2026-09-28 01:32,CR-02,Blue Dart,75,Picked Up
+ORD-0018,2026-09-28,04:28,High,Priya,SKU-031,Cotton Bedsheet,Green,3,WH-MAIN,Shipped,2026-09-28 12:28,CR-03,DTDC,50,Picked Up
+ORD-0019,2026-09-28,05:51,Normal,Sneha,SKU-049,Premium Running Shoes,Black,1,WH-MAIN,Received,2026-09-29 05:51,CR-01,Delhivery,55,Not Ready
+ORD-0020,2026-09-28,01:34,Normal,Ravi,SKU-031,Cotton Bedsheet,Green,3,WH-MAIN,Shipped,2026-09-29 01:34,CR-02,Blue Dart,75,Picked Up
+ORD-0021,2026-09-26,08:03,Normal,Sneha,SKU-032,Premium Running Shoes,Green,2,WH-MAIN,Received,2026-09-27 08:03,CR-04,Ecom Express,48,Not Ready
+ORD-0022,2026-09-28,00:45,Normal,Arjun,SKU-012,Cotton Bedsheet,White,3,WH-MAIN,Received,2026-09-29 00:45,CR-04,Ecom Express,48,Not Ready
+ORD-0023,2026-09-26,03:12,Normal,Kiran,SKU-030,USB-C Charger,Medium,3,WH-MAIN,Packing,2026-09-27 03:12,CR-04,Ecom Express,48,Not Ready
+ORD-0024,2026-09-27,01:44,Normal,Kiran,SKU-029,Wireless Mouse,Blue,1,WH-MAIN,Processing,2026-09-28 01:44,CR-03,DTDC,50,Not Ready
+ORD-0025,2026-09-27,07:15,Normal,Vikram,SKU-032,Premium Running Shoes,Green,3,WH-MAIN,Picking,2026-09-28 07:15,CR-02,Blue Dart,75,Not Ready
+ORD-0026,2026-09-28,06:51,Normal,Arjun,SKU-022,Stainless Steel Bottle,Medium,2,WH-MAIN,Processing,2026-09-29 06:51,CR-04,Ecom Express,48,Not Ready
+ORD-0027,2026-09-27,03:26,High,Rahul,SKU-046,Bluetooth Speaker,White,1,WH-MAIN,Packing,2026-09-27 11:26,CR-04,Ecom Express,48,Not Ready
+ORD-0028,2026-09-26,08:06,Normal,Rahul,SKU-014,Travel Pouch,Red,2,WH-MAIN,Staged,2026-09-27 08:06,CR-04,Ecom Express,48,Ready for Pickup
+ORD-0029,2026-09-27,00:13,Normal,Neha,SKU-023,Bluetooth Speaker,Large,2,WH-MAIN,Shipped,2026-09-28 00:13,CR-02,Blue Dart,75,Picked Up
+ORD-0030,2026-09-28,02:39,Normal,Arjun,SKU-015,Bluetooth Speaker,Green,2,WH-MAIN,Shipped,2026-09-29 02:39,CR-04,Ecom Express,48,Picked Up
+ORD-0031,2026-09-26,08:02,Normal,Priya,SKU-030,USB-C Charger,Medium,1,WH-MAIN,Packing,2026-09-27 08:02,CR-01,Delhivery,55,Not Ready
+ORD-0032,2026-09-27,06:57,High,Ananya,SKU-042,Cotton Bedsheet,Blue,2,WH-MAIN,Picking,2026-09-27 14:57,CR-04,Ecom Express,48,Not Ready
+ORD-0033,2026-09-27,04:12,Normal,Priya,SKU-014,Travel Pouch,Red,2,WH-MAIN,Packing,2026-09-28 04:12,CR-03,DTDC,50,Not Ready
+ORD-0034,2026-09-28,03:46,Normal,Rahul,SKU-031,Cotton Bedsheet,Green,1,WH-MAIN,Shipped,2026-09-29 03:46,CR-01,Delhivery,55,Picked Up
+ORD-0035,2026-09-28,08:21,Normal,Arjun,SKU-049,Premium Running Shoes,Black,1,WH-MAIN,Processing,2026-09-29 08:21,CR-02,Blue Dart,75,Not Ready
+ORD-0036,2026-09-28,01:16,High,Arjun,SKU-031,Cotton Bedsheet,Green,3,WH-MAIN,Picking,2026-09-28 09:16,CR-03,DTDC,50,Not Ready
+ORD-0037,2026-09-26,07:11,Normal,Priya,SKU-039,Laptop Backpack,Red,3,WH-MAIN,Processing,2026-09-27 07:11,CR-03,DTDC,50,Not Ready
+ORD-0038,2026-09-26,02:35,Normal,Priya,SKU-038,Desk Organizer,Black,1,WH-MAIN,Shipped,2026-09-27 02:35,CR-02,Blue Dart,75,Picked Up
+ORD-0039,2026-09-28,07:16,Normal,Suresh,SKU-038,Desk Organizer,Black,3,WH-MAIN,Picking,2026-09-29 07:16,CR-01,Delhivery,55,Not Ready
+ORD-0040,2026-09-26,03:56,Normal,Ravi,SKU-003,Premium Running Shoes,Medium,2,WH-MAIN,Staged,2026-09-27 03:56,CR-03,DTDC,50,Ready for Pickup
+ORD-0041,2026-09-27,01:15,Normal,Arjun,SKU-032,Premium Running Shoes,Green,1,WH-MAIN,Processing,2026-09-28 01:15,CR-04,Ecom Express,48,Not Ready
+ORD-0042,2026-09-27,00:11,Normal,Ravi,SKU-047,Travel Pouch,Red,3,WH-MAIN,Packing,2026-09-28 00:11,CR-04,Ecom Express,48,Not Ready
+ORD-0043,2026-09-28,07:43,Normal,Neha,SKU-047,Travel Pouch,Red,3,WH-MAIN,Packing,2026-09-29 07:43,CR-02,Blue Dart,75,Not Ready
+ORD-0044,2026-09-27,08:29,Normal,Neha,SKU-037,Wireless Mouse,Black,3,WH-MAIN,Picking,2026-09-28 08:29,CR-02,Blue Dart,75,Not Ready
+ORD-0045,2026-09-27,04:04,Normal,Rahul,SKU-014,Travel Pouch,Red,2,WH-MAIN,Staged,2026-09-28 04:04,CR-03,DTDC,50,Pickup Delayed
+ORD-0046,2026-09-26,02:29,High,Neha,SKU-034,Classic Cotton T-Shirt,Green,1,WH-MAIN,Staged,2026-09-26 10:29,CR-02,Blue Dart,75,Pickup Delayed
+ORD-0047,2026-09-28,07:42,Normal,Sneha,SKU-042,Cotton Bedsheet,Blue,3,WH-MAIN,Processing,2026-09-29 07:42,CR-04,Ecom Express,48,Not Ready
+ORD-0048,2026-09-27,00:27,Normal,Kiran,SKU-020,USB-C Charger,Green,3,WH-MAIN,Picking,2026-09-28 00:27,CR-04,Ecom Express,48,Not Ready
+ORD-0049,2026-09-27,04:44,Normal,Sneha,SKU-022,Stainless Steel Bottle,Medium,2,WH-MAIN,Processing,2026-09-28 04:44,CR-01,Delhivery,55,Not Ready
+ORD-0050,2026-09-26,06:48,Normal,Vikram,SKU-021,Stainless Steel Bottle,Black,1,WH-MAIN,Processing,2026-09-27 06:48,CR-04,Ecom Express,48,Not Ready
+ORD-0051,2026-09-26,04:54,Normal,Sneha,SKU-047,Travel Pouch,Red,3,WH-MAIN,Processing,2026-09-27 04:54,CR-03,DTDC,50,Not Ready
+ORD-0052,2026-09-26,00:52,Normal,Rahul,SKU-024,USB-C Charger,Small,1,WH-MAIN,Picking,2026-09-27 00:52,CR-01,Delhivery,55,Not Ready
+ORD-0053,2026-09-28,01:54,Normal,Neha,SKU-036,Travel Pouch,Red,2,WH-MAIN,Received,2026-09-29 01:54,CR-03,DTDC,50,Not Ready
+ORD-0054,2026-09-28,04:05,Normal,Priya,SKU-031,Cotton Bedsheet,Green,2,WH-MAIN,Packing,2026-09-29 04:05,CR-01,Delhivery,55,Not Ready
+ORD-0055,2026-09-26,08:51,High,Priya,SKU-026,Laptop Backpack,Medium,2,WH-MAIN,Processing,2026-09-26 16:51,CR-03,DTDC,50,Not Ready
+ORD-0056,2026-09-27,05:11,Normal,Neha,SKU-016,Premium Running Shoes,Medium,1,WH-MAIN,Staged,2026-09-28 05:11,CR-04,Ecom Express,48,Ready for Pickup
+ORD-0057,2026-09-27,08:21,Normal,Sneha,SKU-020,USB-C Charger,Green,3,WH-MAIN,Shipped,2026-09-28 08:21,CR-01,Delhivery,55,Picked Up
+ORD-0058,2026-09-28,06:45,Normal,Arjun,SKU-041,Premium Running Shoes,Blue,1,WH-MAIN,Processing,2026-09-29 06:45,CR-01,Delhivery,55,Not Ready
+ORD-0059,2026-09-26,01:42,Normal,Vikram,SKU-001,Premium Running Shoes,Black,2,WH-MAIN,Received,2026-09-27 01:42,CR-02,Blue Dart,75,Not Ready
+ORD-0060,2026-09-27,07:17,Normal,Suresh,SKU-046,Bluetooth Speaker,White,2,WH-MAIN,Processing,2026-09-28 07:17,CR-03,DTDC,50,Not Ready
+ORD-0061,2026-09-26,05:19,Normal,Arjun,SKU-043,Travel Pouch,Medium,1,WH-MAIN,Processing,2026-09-27 05:19,CR-03,DTDC,50,Not Ready
+ORD-0062,2026-09-27,04:32,High,Vikram,SKU-005,Travel Pouch,Black,1,WH-MAIN,Received,2026-09-27 12:32,CR-04,Ecom Express,48,Not Ready
+ORD-0063,2026-09-26,00:29,Normal,Suresh,SKU-045,Desk Organizer,Small,2,WH-MAIN,Packing,2026-09-27 00:29,CR-01,Delhivery,55,Not Ready
+ORD-0064,2026-09-26,04:59,Normal,Suresh,SKU-003,Premium Running Shoes,Medium,2,WH-MAIN,Received,2026-09-27 04:59,CR-02,Blue Dart,75,Not Ready
+ORD-0065,2026-09-26,04:24,Normal,Neha,SKU-038,Desk Organizer,Black,1,WH-MAIN,Received,2026-09-27 04:24,CR-02,Blue Dart,75,Not Ready
+ORD-0066,2026-09-27,06:23,Normal,Priya,SKU-034,Classic Cotton T-Shirt,Green,3,WH-MAIN,Packing,2026-09-28 06:23,CR-04,Ecom Express,48,Not Ready
+ORD-0067,2026-09-27,07:06,Normal,Ravi,SKU-031,Cotton Bedsheet,Green,2,WH-MAIN,Processing,2026-09-28 07:06,CR-03,DTDC,50,Not Ready
+ORD-0068,2026-09-27,00:58,Normal,Ananya,SKU-045,Desk Organizer,Small,2,WH-MAIN,Packing,2026-09-28 00:58,CR-01,Delhivery,55,Not Ready
+ORD-0069,2026-09-27,00:08,High,Ravi,SKU-017,Stainless Steel Bottle,Blue,2,WH-MAIN,Received,2026-09-27 08:08,CR-04,Ecom Express,48,Not Ready
+ORD-0070,2026-09-26,01:20,Normal,Sneha,SKU-004,Premium Running Shoes,Red,1,WH-MAIN,Packing,2026-09-27 01:20,CR-01,Delhivery,55,Not Ready
+ORD-0071,2026-09-27,01:04,High,Priya,SKU-018,Bluetooth Speaker,Green,3,WH-MAIN,Shipped,2026-09-27 09:04,CR-04,Ecom Express,48,Picked Up
+ORD-0072,2026-09-28,06:41,Normal,Ravi,SKU-002,Bluetooth Speaker,Blue,3,WH-MAIN,Staged,2026-09-29 06:41,CR-01,Delhivery,55,Pickup Delayed
+ORD-0073,2026-09-28,01:53,Normal,Neha,SKU-006,Cotton Bedsheet,Medium,1,WH-MAIN,Shipped,2026-09-29 01:53,CR-02,Blue Dart,75,Picked Up
+ORD-0074,2026-09-27,02:07,Normal,Sneha,SKU-046,Bluetooth Speaker,White,2,WH-MAIN,Packing,2026-09-28 02:07,CR-04,Ecom Express,48,Not Ready
+ORD-0075,2026-09-28,00:13,High,Vikram,SKU-030,USB-C Charger,Medium,3,WH-MAIN,Processing,2026-09-28 08:13,CR-01,Delhivery,55,Not Ready
+ORD-0076,2026-09-26,04:08,Normal,Vikram,SKU-050,Cotton Bedsheet,Red,2,WH-MAIN,Received,2026-09-27 04:08,CR-03,DTDC,50,Not Ready
+ORD-0077,2026-09-27,06:32,Normal,Ananya,SKU-038,Desk Organizer,Black,3,WH-MAIN,Staged,2026-09-28 06:32,CR-04,Ecom Express,48,Ready for Pickup
+ORD-0078,2026-09-27,05:16,Normal,Sneha,SKU-036,Travel Pouch,Red,3,WH-MAIN,Processing,2026-09-28 05:16,CR-04,Ecom Express,48,Not Ready
+ORD-0079,2026-09-26,01:15,High,Arjun,SKU-050,Cotton Bedsheet,Red,2,WH-MAIN,Packing,2026-09-26 09:15,CR-04,Ecom Express,48,Not Ready
+ORD-0080,2026-09-26,03:05,High,Priya,SKU-032,Premium Running Shoes,Green,1,WH-MAIN,Received,2026-09-26 11:05,CR-04,Ecom Express,48,Not Ready
+ORD-0081,2026-09-28,02:05,High,Priya,SKU-034,Classic Cotton T-Shirt,Green,2,WH-MAIN,Shipped,2026-09-28 10:05,CR-02,Blue Dart,75,Picked Up
+ORD-0082,2026-09-26,02:19,Normal,Kiran,SKU-031,Cotton Bedsheet,Green,2,WH-MAIN,Received,2026-09-27 02:19,CR-03,DTDC,50,Not Ready
+ORD-0083,2026-09-27,00:58,Normal,Vikram,SKU-025,Wireless Mouse,Red,2,WH-MAIN,Staged,2026-09-28 00:58,CR-01,Delhivery,55,Ready for Pickup
+ORD-0084,2026-09-28,07:32,High,Rahul,SKU-015,Bluetooth Speaker,Green,3,WH-MAIN,Processing,2026-09-28 15:32,CR-03,DTDC,50,Not Ready
+ORD-0085,2026-09-27,03:37,Normal,Sneha,SKU-003,Premium Running Shoes,Medium,2,WH-MAIN,Packing,2026-09-28 03:37,CR-02,Blue Dart,75,Not Ready
+ORD-0086,2026-09-28,06:49,Normal,Suresh,SKU-034,Classic Cotton T-Shirt,Green,2,WH-MAIN,Received,2026-09-29 06:49,CR-04,Ecom Express,48,Not Ready
+ORD-0087,2026-09-26,06:46,Normal,Neha,SKU-044,Bluetooth Speaker,Green,1,WH-MAIN,Packing,2026-09-27 06:46,CR-03,DTDC,50,Not Ready
+ORD-0088,2026-09-27,04:17,High,Neha,SKU-017,Stainless Steel Bottle,Blue,3,WH-MAIN,Staged,2026-09-27 12:17,CR-02,Blue Dart,75,Ready for Pickup
+ORD-0089,2026-09-27,04:31,Normal,Ravi,SKU-023,Bluetooth Speaker,Large,3,WH-MAIN,Picking,2026-09-28 04:31,CR-02,Blue Dart,75,Not Ready
+ORD-0090,2026-09-26,03:24,Normal,Rahul,SKU-031,Cotton Bedsheet,Green,1,WH-MAIN,Picking,2026-09-27 03:24,CR-03,DTDC,50,Not Ready
+ORD-0091,2026-09-26,08:02,Normal,Sneha,SKU-043,Travel Pouch,Medium,2,WH-MAIN,Staged,2026-09-27 08:02,CR-04,Ecom Express,48,Ready for Pickup
+ORD-0092,2026-09-28,04:17,Normal,Priya,SKU-039,Laptop Backpack,Red,2,WH-MAIN,Shipped,2026-09-29 04:17,CR-02,Blue Dart,75,Picked Up
+ORD-0093,2026-09-27,08:23,High,Priya,SKU-041,Premium Running Shoes,Blue,3,WH-MAIN,Picking,2026-09-27 16:23,CR-02,Blue Dart,75,Not Ready
+ORD-0094,2026-09-28,05:52,Normal,Kiran,SKU-019,Cotton Bedsheet,Red,2,WH-MAIN,Staged,2026-09-29 05:52,CR-03,DTDC,50,Pickup Delayed
+ORD-0095,2026-09-27,04:13,Normal,Neha,SKU-018,Bluetooth Speaker,Green,1,WH-MAIN,Picking,2026-09-28 04:13,CR-01,Delhivery,55,Not Ready
+ORD-0096,2026-09-28,02:06,Normal,Ravi,SKU-005,Travel Pouch,Black,1,WH-MAIN,Staged,2026-09-29 02:06,CR-03,DTDC,50,Ready for Pickup
+ORD-0097,2026-09-27,03:17,Normal,Suresh,SKU-001,Premium Running Shoes,Black,2,WH-MAIN,Shipped,2026-09-28 03:17,CR-03,DTDC,50,Picked Up
+ORD-0098,2026-09-28,05:30,Normal,Suresh,SKU-025,Wireless Mouse,Red,3,WH-MAIN,Received,2026-09-29 05:30,CR-03,DTDC,50,Not Ready
+ORD-0099,2026-09-27,04:19,High,Arjun,SKU-015,Bluetooth Speaker,Green,3,WH-MAIN,Packing,2026-09-27 12:19,CR-01,Delhivery,55,Not Ready
+ORD-0100,2026-09-27,07:54,Normal,Ravi,SKU-003,Premium Running Shoes,Medium,1,WH-MAIN,Processing,2026-09-28 07:54,CR-02,Blue Dart,75,Not Ready
+ORD-0101,2026-09-26,00:34,Normal,Priya,SKU-030,USB-C Charger,Medium,2,WH-MAIN,Staged,2026-09-27 00:34,CR-02,Blue Dart,75,Ready for Pickup
+ORD-0102,2026-09-27,08:16,Normal,Neha,SKU-032,Premium Running Shoes,Green,3,WH-MAIN,Picking,2026-09-28 08:16,CR-02,Blue Dart,75,Not Ready
+ORD-0103,2026-09-28,03:26,Normal,Rahul,SKU-029,Wireless Mouse,Blue,1,WH-MAIN,Shipped,2026-09-29 03:26,CR-03,DTDC,50,Picked Up
+ORD-0104,2026-09-28,01:55,High,Suresh,SKU-026,Laptop Backpack,Medium,2,WH-MAIN,Shipped,2026-09-28 09:55,CR-02,Blue Dart,75,Picked Up
+ORD-0105,2026-09-28,06:10,Normal,Kiran,SKU-002,Bluetooth Speaker,Blue,1,WH-MAIN,Staged,2026-09-29 06:10,CR-02,Blue Dart,75,Ready for Pickup
+ORD-0106,2026-09-28,03:11,Normal,Vikram,SKU-014,Travel Pouch,Red,3,WH-MAIN,Processing,2026-09-29 03:11,CR-01,Delhivery,55,Not Ready
+ORD-0107,2026-09-28,07:18,Normal,Rahul,SKU-010,USB-C Charger,White,1,WH-MAIN,Received,2026-09-29 07:18,CR-02,Blue Dart,75,Not Ready
+ORD-0108,2026-09-28,06:44,Normal,Ravi,SKU-023,Bluetooth Speaker,Large,1,WH-MAIN,Received,2026-09-29 06:44,CR-02,Blue Dart,75,Not Ready
+ORD-0109,2026-09-27,01:11,Normal,Neha,SKU-034,Classic Cotton T-Shirt,Green,1,WH-MAIN,Picking,2026-09-28 01:11,CR-01,Delhivery,55,Not Ready
+ORD-0110,2026-09-28,00:41,Normal,Rahul,SKU-033,Laptop Backpack,Medium,1,WH-MAIN,Packing,2026-09-29 00:41,CR-01,Delhivery,55,Not Ready
+ORD-0111,2026-09-28,01:15,Normal,Priya,SKU-031,Cotton Bedsheet,Green,2,WH-MAIN,Packing,2026-09-29 01:15,CR-01,Delhivery,55,Not Ready
+ORD-0112,2026-09-28,04:21,High,Ravi,SKU-021,Stainless Steel Bottle,Black,3,WH-MAIN,Shipped,2026-09-28 12:21,CR-03,DTDC,50,Picked Up
+ORD-0113,2026-09-26,02:54,Normal,Kiran,SKU-039,Laptop Backpack,Red,3,WH-MAIN,Shipped,2026-09-27 02:54,CR-01,Delhivery,55,Picked Up
+ORD-0114,2026-09-28,02:39,Normal,Ravi,SKU-047,Travel Pouch,Red,1,WH-MAIN,Packing,2026-09-29 02:39,CR-04,Ecom Express,48,Not Ready
+ORD-0115,2026-09-27,04:37,Normal,Priya,SKU-047,Travel Pouch,Red,1,WH-MAIN,Processing,2026-09-28 04:37,CR-04,Ecom Express,48,Not Ready
+ORD-0116,2026-09-28,03:09,High,Suresh,SKU-006,Cotton Bedsheet,Medium,1,WH-MAIN,Processing,2026-09-28 11:09,CR-01,Delhivery,55,Not Ready
+ORD-0117,2026-09-28,02:38,Normal,Rahul,SKU-036,Travel Pouch,Red,3,WH-MAIN,Shipped,2026-09-29 02:38,CR-04,Ecom Express,48,Picked Up
+ORD-0118,2026-09-28,00:47,Normal,Sneha,SKU-019,Cotton Bedsheet,Red,3,WH-MAIN,Processing,2026-09-29 00:47,CR-04,Ecom Express,48,Not Ready
+ORD-0119,2026-09-27,07:12,Normal,Ravi,SKU-007,Travel Pouch,Green,2,WH-MAIN,Picking,2026-09-28 07:12,CR-02,Blue Dart,75,Not Ready
+ORD-0120,2026-09-26,00:59,Normal,Arjun,SKU-036,Travel Pouch,Red,3,WH-MAIN,Staged,2026-09-27 00:59,CR-03,DTDC,50,Ready for Pickup
+ORD-0121,2026-09-27,04:00,Normal,Suresh,SKU-018,Bluetooth Speaker,Green,3,WH-MAIN,Processing,2026-09-28 04:00,CR-02,Blue Dart,75,Not Ready
+ORD-0122,2026-09-26,08:55,High,Ravi,SKU-043,Travel Pouch,Medium,2,WH-MAIN,Shipped,2026-09-26 16:55,CR-02,Blue Dart,75,Picked Up
+ORD-0123,2026-09-27,04:14,Normal,Rahul,SKU-027,Stainless Steel Bottle,Red,2,WH-MAIN,Picking,2026-09-28 04:14,CR-01,Delhivery,55,Not Ready
+ORD-0124,2026-09-28,07:43,Normal,Neha,SKU-010,USB-C Charger,White,1,WH-MAIN,Packing,2026-09-29 07:43,CR-04,Ecom Express,48,Not Ready
+ORD-0125,2026-09-28,00:53,Normal,Priya,SKU-039,Laptop Backpack,Red,2,WH-MAIN,Picking,2026-09-29 00:53,CR-04,Ecom Express,48,Not Ready
+ORD-0126,2026-09-27,00:18,Normal,Sneha,SKU-019,Cotton Bedsheet,Red,3,WH-MAIN,Picking,2026-09-28 00:18,CR-01,Delhivery,55,Not Ready
+ORD-0127,2026-09-28,04:47,High,Vikram,SKU-026,Laptop Backpack,Medium,3,WH-MAIN,Processing,2026-09-28 12:47,CR-03,DTDC,50,Not Ready
+ORD-0128,2026-09-26,02:49,High,Kiran,SKU-021,Stainless Steel Bottle,Black,1,WH-MAIN,Processing,2026-09-26 10:49,CR-04,Ecom Express,48,Not Ready
+ORD-0129,2026-09-26,03:56,Normal,Ravi,SKU-046,Bluetooth Speaker,White,1,WH-MAIN,Packing,2026-09-27 03:56,CR-01,Delhivery,55,Not Ready
+ORD-0130,2026-09-27,02:24,Normal,Vikram,SKU-002,Bluetooth Speaker,Blue,2,WH-MAIN,Packing,2026-09-28 02:24,CR-04,Ecom Express,48,Not Ready
+ORD-0131,2026-09-27,06:09,High,Ananya,SKU-008,USB-C Charger,Large,2,WH-MAIN,Staged,2026-09-27 14:09,CR-04,Ecom Express,48,Pickup Delayed
+ORD-0132,2026-09-28,02:23,Normal,Ravi,SKU-006,Cotton Bedsheet,Medium,2,WH-MAIN,Packing,2026-09-29 02:23,CR-01,Delhivery,55,Not Ready
+ORD-0133,2026-09-27,06:56,Normal,Kiran,SKU-020,USB-C Charger,Green,3,WH-MAIN,Staged,2026-09-28 06:56,CR-01,Delhivery,55,Pickup Delayed
+ORD-0134,2026-09-26,06:45,Normal,Vikram,SKU-013,Cotton Bedsheet,Green,2,WH-MAIN,Received,2026-09-27 06:45,CR-02,Blue Dart,75,Not Ready
+ORD-0135,2026-09-26,07:49,Normal,Neha,SKU-013,Cotton Bedsheet,Green,1,WH-MAIN,Shipped,2026-09-27 07:49,CR-04,Ecom Express,48,Picked Up
+ORD-0136,2026-09-27,03:05,Normal,Arjun,SKU-049,Premium Running Shoes,Black,3,WH-MAIN,Shipped,2026-09-28 03:05,CR-03,DTDC,50,Picked Up
+ORD-0137,2026-09-26,04:10,Normal,Ananya,SKU-029,Wireless Mouse,Blue,1,WH-MAIN,Picking,2026-09-27 04:10,CR-01,Delhivery,55,Not Ready
+ORD-0138,2026-09-27,08:57,Normal,Priya,SKU-033,Laptop Backpack,Medium,1,WH-MAIN,Picking,2026-09-28 08:57,CR-03,DTDC,50,Not Ready
+ORD-0139,2026-09-26,02:31,Normal,Suresh,SKU-042,Cotton Bedsheet,Blue,1,WH-MAIN,Staged,2026-09-27 02:31,CR-01,Delhivery,55,Ready for Pickup
+ORD-0140,2026-09-27,00:51,Normal,Priya,SKU-042,Cotton Bedsheet,Blue,1,WH-MAIN,Received,2026-09-28 00:51,CR-04,Ecom Express,48,Not Ready
+ORD-0141,2026-09-26,06:58,High,Neha,SKU-022,Stainless Steel Bottle,Medium,3,WH-MAIN,Processing,2026-09-26 14:58,CR-04,Ecom Express,48,Not Ready
+ORD-0142,2026-09-27,03:02,Normal,Ravi,SKU-034,Classic Cotton T-Shirt,Green,3,WH-MAIN,Picking,2026-09-28 03:02,CR-04,Ecom Express,48,Not Ready
+ORD-0143,2026-09-28,03:56,Normal,Kiran,SKU-050,Cotton Bedsheet,Red,2,WH-MAIN,Picking,2026-09-29 03:56,CR-01,Delhivery,55,Not Ready
+ORD-0144,2026-09-26,06:39,Normal,Ananya,SKU-044,Bluetooth Speaker,Green,2,WH-MAIN,Received,2026-09-27 06:39,CR-02,Blue Dart,75,Not Ready
+ORD-0145,2026-09-27,06:22,Normal,Vikram,SKU-020,USB-C Charger,Green,3,WH-MAIN,Shipped,2026-09-28 06:22,CR-01,Delhivery,55,Picked Up
+ORD-0146,2026-09-27,06:18,Normal,Ravi,SKU-036,Travel Pouch,Red,2,WH-MAIN,Shipped,2026-09-28 06:18,CR-01,Delhivery,55,Picked Up
+ORD-0147,2026-09-27,06:47,High,Sneha,SKU-033,Laptop Backpack,Medium,2,WH-MAIN,Picking,2026-09-27 14:47,CR-04,Ecom Express,48,Not Ready
+ORD-0148,2026-09-27,07:28,High,Ananya,SKU-015,Bluetooth Speaker,Green,1,WH-MAIN,Staged,2026-09-27 15:28,CR-01,Delhivery,55,Pickup Delayed
+ORD-0149,2026-09-27,06:50,High,Neha,SKU-050,Cotton Bedsheet,Red,3,WH-MAIN,Processing,2026-09-27 14:50,CR-02,Blue Dart,75,Not Ready
+ORD-0150,2026-09-26,05:32,Normal,Neha,SKU-003,Premium Running Shoes,Medium,2,WH-MAIN,Staged,2026-09-27 05:32,CR-03,DTDC,50,Pickup Delayed
