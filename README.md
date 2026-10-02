@@ -212,6 +212,7 @@ The project uses dummy operational data created specifically to demonstrate the 
 ## Video Walkthrough
 
 A short walkthrough demonstrates:
+Video walkthrough: https://youtu.be/svmn-xmqLGA
 
 1. Problem understanding
 2. Operations Dashboard
